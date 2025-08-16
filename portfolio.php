@@ -170,18 +170,19 @@
   <section class="projects">
     <div class="container">
       <div class="projects-grid" id="projectsGrid">
-        <!-- Bio Data Form Card -->
-        <div class="project-card compact" data-title="Bio Data Form" data-tags="html5 css3 form">
-          <a href="bio.php" class="project-link-wrapper">
+        <!-- Bio Data Management System Card -->
+        <div class="project-card compact" data-title="Bio Data Management System" data-tags="php mysql authentication matrimonial user-management">
+          <a href="Lab_report5/index.php" class="project-link-wrapper">
             <div class="project-image">
-              <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Bio Data Form">
+              <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Bio Data Management System">
             </div>
             <div class="project-content">
-              <h3>Bio Data Form</h3>
-              <p>Personal information form with modern design</p>
+              <h3>Bio Data Management System</h3>
+              <p>Complete matrimonial bio-data system with user authentication, profile management, and comprehensive bio forms</p>
               <div class="project-tags">
-                <span>HTML5</span>
-                <span>CSS3</span>
+                <span>PHP</span>
+                <span>MySQL</span>
+                <span>Authentication</span>
               </div>
             </div>
           </a>
